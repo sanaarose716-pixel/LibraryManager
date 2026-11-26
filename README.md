@@ -143,3 +143,12 @@ Developed as part of the Full Stack Development (MERN Stack) Exit Examination.
 
 ### Updated Dashboard
 ![Dashboard 2](dashboard2.png)
+
+## Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Axios
