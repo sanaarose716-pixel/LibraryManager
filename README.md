@@ -156,3 +156,7 @@ Developed as part of the Full Stack Development (MERN Stack) Exit Examination.
 ## API Base URL
 
 http://localhost:5000/api
+
+## Project Status
+
+Library Book Lending Manager project completed with book management, issue and return operations, loan history, search, filters and dashboard statistics.
