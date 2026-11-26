@@ -152,3 +152,7 @@ Developed as part of the Full Stack Development (MERN Stack) Exit Examination.
 - MongoDB
 - Mongoose
 - Axios
+
+## API Base URL
+
+http://localhost:5000/api
